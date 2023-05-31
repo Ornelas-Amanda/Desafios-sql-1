@@ -1,0 +1,10 @@
+--CREATE DATABASE DesafiosSQL
+
+--USE DesafiosSQL;
+
+CREATE TABLE [TABELA DE VENDEDORES]
+( 
+[MATRICULA] varchar(5),
+[NOME] varchar(100),
+[PERCENTUAL COMISSÃO] float
+);
